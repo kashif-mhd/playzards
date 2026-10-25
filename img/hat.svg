@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Playzards wizard hat">
+  <defs>
+    <linearGradient id="cone" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b79bff"/>
+      <stop offset="0.55" stop-color="#7c4ef2"/>
+      <stop offset="1" stop-color="#4c1fb5"/>
+    </linearGradient>
+    <linearGradient id="brim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6d3fe0"/>
+      <stop offset="1" stop-color="#36148c"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe27a"/>
+      <stop offset="1" stop-color="#f0a91f"/>
+    </linearGradient>
+  </defs>
+  <!-- brim -->
+  <ellipse cx="58" cy="94" rx="52" ry="13" fill="url(#brim)"/>
+  <!-- cone, its tip bending over to the right -->
+  <path d="M20 92 C 34 70, 44 44, 62 22 C 70 12, 84 8, 96 14 C 86 16, 80 24, 80 36 C 82 56, 90 74, 98 92 Z" fill="url(#cone)"/>
+  <!-- light edge -->
+  <path d="M26 88 C 38 66, 48 42, 64 24" stroke="#d9cbff" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.6"/>
+  <!-- gold band -->
+  <path d="M22 86 C 46 78, 74 78, 97 86 L 99 93 C 74 85, 46 85, 20 93 Z" fill="url(#gold)"/>
+  <!-- stars -->
+  <path d="M54 56 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z" fill="url(#gold)"/>
+  <path d="M70 40 l2 4.5 4.5 2 -4.5 2 -2 4.5 -2 -4.5 -4.5 -2 4.5 -2z" fill="#ffe9a8"/>
+  <!-- the sparkle at the tip -->
+  <path d="M104 6 l2.5 6 6 2.5 -6 2.5 -2.5 6 -2.5 -6 -6 -2.5 6 -2.5z" fill="#ffe27a"/>
+</svg>
