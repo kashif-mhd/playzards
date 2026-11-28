@@ -1,4 +1,12 @@
 {
  "format": 1,
- "packs": []
+ "packs": [
+  {
+   "id": "week-01",
+   "url": "packs/week-01.txt",
+   "sha256": "101a2b4c71d9f072b6593abde1b78326d5368f538e335238d4a0111a49254e26",
+   "release": "2026-12-04T00:00:00Z",
+   "minContentVersion": 1
+  }
+ ]
 }

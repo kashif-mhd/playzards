@@ -1,0 +1,359 @@
+; 101
+; id L0101
+; tech 2
+. o * o o o .
+ . o o o o .
+o o o * o o o
+ o o * o o o
+o o * * o o o
+ o o o * o o
+o o o o o o o
+ * o . . . o
+o * o . . o *
+ o o . . . o
+o o @ . . o o
+ * o . . . o
+o * o o o o o
+ o o o o o *
+o o o o * o o
+ * o o o o o
+o o o * o o o
+ . o o o o .
+. * * o o o .
+;i . # . . . . .
+;i  . # . . . .
+;i . . # . # # #
+;i  . # . . . .
+;i # . . # # . .
+;i  . . . . . .
+;i . # . . . . .
+;i  # # . . . .
+;i . . . . . . .
+;i  # . . . . .
+;i . . . . . . .
+;i  # . . . . #
+;i # # . . . . .
+;i  . . . . . .
+;i # . . . # . .
+;i  . . . . . .
+;i . . . . . . .
+;i  . . # # # .
+;i . . . . # . .
+
+; 102
+; id L0102
+; tech 3
+; time 200
+; mode crystal
+. . * o o * . .
+ . . o o o . .
+. o o o * o * .
+ . o o o o o .
+o * o * o o o o
+ o o o o o o o
+o o o * * o o *
+ o o o o o o o
+o * o @ o o o o
+ o o o o o o o
+* * * o * * o *
+ o o o o o o o
+* * o o * o * o
+ . o o o o o .
+. o o o * o o .
+ . . o o o . .
+. . * * o o . .
+
+; 103
+; id L0103
+; tech 1
+; time 130
+. . . o o . . .
+ . . . o . . .
+. . o @ o * . .
+ . . o o * . .
+. o o o o o * .
+ . . . . . . .
+. . . . . . . .
+ . . . . . . .
+o o o * o o o o
+ o o o o o o o
+o o o o @ o o *
+ o o . . o o o
+o * * . o o o *
+ . . . . . . .
+. . . . . . . .
+ . . . . . . .
+. . * * o o . .
+ . . . o . . .
+. . . o @ . . .
+;z . . . 0 0 . . .
+;z  . . . 0 . . .
+;z . . 0 0 0 0 . .
+;z  . . 0 0 0 . .
+;z . 0 0 0 0 0 0 .
+;z  . . . . . . .
+;z . . . . . . . .
+;z  . . . . . . .
+;z 1 1 1 1 1 1 1 1
+;z  1 1 1 1 1 1 1
+;z 1 1 1 1 1 1 1 1
+;z  1 1 . . 1 1 1
+;z 1 1 1 . 1 1 1 1
+;z  . . . . . . .
+;z . . . . . . . .
+;z  . . . . . . .
+;z . . 2 2 2 2 . .
+;z  . . . 2 . . .
+;z . . . 2 2 . . .
+
+; 104
+; id L0104
+; tech 3
+; mode crystal
+. * o o o * .
+ . o o o o .
+o o * * o o o
+ o o o o o o
+o o o o * o *
+ o o o o o o
+o * o * o o *
+ o o o o o o
+* o * @ * o *
+ o o o o o o
+* o * o o o o
+ o o o o o o
+o * o o o o o
+ o o o o o o
+* * o o * * o
+ o o o o o o
+o * * o * o *
+ . o o o o .
+. o o o o * .
+
+; 105
+; id L0105
+; tech 3
+. . o o o o . .
+ . . o * * . .
+. * o o o * o .
+ . o * o o o .
+o o o o o o o o
+ o * o o o o *
+o o o o * o o o
+ * o o o o o *
+* o o @ o * o o
+ o o o o o o o
+o o o o * o o o
+ o o o o o o o
+* o o * o o o o
+ . o o o o o .
+. o o o o o o .
+ . . * o * . .
+. . o * o o . .
+;i . . . # . . . .
+;i  . . . . . . .
+;i . . # . # # . .
+;i  . # # . # . .
+;i . . # . # . . .
+;i  . . # # . . .
+;i . . . . . . . .
+;i  . . . . . . .
+;i . . . . . . . .
+;i  . . . . . # .
+;i # # # . . . # .
+;i  . . . # . . .
+;i . # # . . . . .
+;i  . . # . . # .
+;i . . . . # . . .
+;i  . . . . # . .
+;i . . . . . . . .
+
+; 106
+; id L0106
+; tech 2
+. . . * o . . .
+ . . . o . . .
+. . o o o * . .
+ . . o o * . .
+. * o o o o o .
+ . o o o o o .
+o o o o o o o o
+ * o . . o o o
+o o o . o * o o
+ * o . . o o *
+o o o o @ o o o
+ o o o o o o *
+o o * * o * o *
+ . o * o o o .
+. o o o o o o .
+ . . o o o . .
+. . o * o * . .
+ . . . o . . .
+. . . o o . . .
+
+; 107
+; id L0107
+; tech 3
+; time 245
+; mode crystal
+. o * * o * .
+ . o o o o .
+o o * o o o o
+ o o o o o o
+o * * o * * o
+ o o o o o o
+o * o o o o o
+ o o o o o o
+* * o @ * o o
+ o o o o o o
+o o o * o o *
+ o o o o o o
+o * * o * o *
+ o o o o o o
+o * o * o * o
+ o o o o o o
+o * o o o o o
+ . o o o o .
+. * o * * o .
+
+; 108
+; id L0108
+; tech 1
+. . o o o o . .
+ . . o o * . .
+. o o o o o * .
+ . o o o o * .
+* o o o o o o o
+ * * o o o o o
+o o * o @ o * o
+ * o . . . o o
+o o o . . o o o
+ o o . . . * o
+o o o . . o o o
+ o o . . . * o
+o o o * o o o o
+ . o o * o o .
+. o o o o o * .
+ . . o o * . .
+. . o o o * . .
+;i . . # . . . . .
+;i  . . . . . . .
+;i . . # # . # . .
+;i  . # # . . . .
+;i . . # . . . . #
+;i  . . . . . . .
+;i . . . . . . . .
+;i  . . . . . . .
+;i . . # . . . # #
+;i  # . . . . . .
+;i . . . . . . . .
+;i  . . . . . . .
+;i . . . . . # . #
+;i  . # # # . . .
+;i . # . . # . . .
+;i  . . . . . . .
+;i . . . . # # . .
+
+; 109
+; id L0109
+; tech 3
+. . . o o . . .
+ . . . o . . .
+. . o o o o . .
+ . . . o o . .
+. * . o * o o .
+ . . . o o o .
+o o * o o o * *
+ * o o o o o o
+o o o @ o o o o
+ o o o o * o o
+o o o o o * * o
+ * o o o * o o
+o * o o o o o o
+ . o o o . . .
+. o o o o . * .
+ . . o o . . .
+. . * * o o . .
+ . . . o . . .
+. . . o o . . .
+;f . . . . . . . .
+;f  . . . . . . .
+;f . . . . . . . .
+;f  . . . . . . .
+;f . . . ? . . . .
+;f  . . . . . ? .
+;f ? . . . . ? . .
+;f  . . . . . ? .
+;f . . . . . . . .
+;f  . . . . . ? ?
+;f . . . . . . . .
+;f  . ? . . . . .
+;f ? . . . . . . .
+;f  . ? . . . . .
+;f . ? . . . . . .
+;f  . . . . . . .
+;f . . . . . . . .
+;f  . . . ? . . .
+;f . . . . . . . .
+
+; 110
+; id L0110
+; tech 3
+; finale
+. o * o o o .
+ . o o * o .
+o * o o o o o
+ o o o o o o
+o o * o o o o
+ o * . . o o
+o o o . o * o
+ o o . . o o
+o o o @ o * o
+ o o o o o o
+o o o o o o *
+ o * . . o o
+o o o . o o *
+ * o . . o *
+o o o o o o o
+ * o o * o o
+* o o * o o o
+ . * o o o .
+. o * o o * .
+;f . ? . . ? . .
+;f  . . ? . . .
+;f . . . . . . .
+;f  ? . . . . .
+;f . . . ? . . .
+;f  . . . . ? ?
+;f . . ? . . . .
+;f  . . . . ? .
+;f . . . . ? . .
+;f  . . . . . .
+;f . . . . . . .
+;f  . . . . . .
+;f . . . . . . .
+;f  . . . . . .
+;f . . . . . . .
+;f  . . . . . .
+;f . . . . . . .
+;f  . . . ? . .
+;f . . . ? ? . .
+;i . # . # . . .
+;i  . # . . # .
+;i . . # . . . .
+;i  # # . # . .
+;i . . . . . # .
+;i  . # . . . #
+;i . . . . . . .
+;i  # . . . . #
+;i # . . . . . #
+;i  . . . . . .
+;i . . # . . . .
+;i  . . . . # .
+;i . # . . . . #
+;i  . . . . . .
+;i . . # . . # #
+;i  . . . . . .
+;i . . . # # . #
+;i  . . . . . .
+;i . . . . . . .
